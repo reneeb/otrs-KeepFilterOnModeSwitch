@@ -1,0 +1,19 @@
+=head1 NAME
+
+KeepFilterOnModeSwitch
+
+=head1 DESCRIPTION
+
+When you sort or filter the ticket search results in the "S" view and you click on the "M" view,
+all the sorting and filters are lost. This addon keeps it...
+
+=head1 REPOSITORY AND BUGTRACKER
+
+The code repository and a bugtracker is available at
+L<http://github.com/reneeb/otrs-KeepFilterOnModeSwitch>.
+
+=head1 AUTHOR AND LICENSE
+
+This addon is licensed under the terms of AGPL 3.
+
+Renee Baecker, C<< <info@perl-services.de> >>
